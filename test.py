@@ -37,4 +37,4 @@ test_picture = "insert test picture path"
 classify_and_show(test_picture)
 
 # Used to add picture to training dataset after classification
-shutil.copy(test_picture, "insert path to training dataset for test picture animal")
+#shutil.copy(test_picture, "insert path to training dataset for test picture animal")
