@@ -1,4 +1,4 @@
-# 4090 Final Project: Animal Distinction Using Keras
+# 5404 Final Project: Animal Distinction Using Keras
 
 Instructions for running:
 1. Clone repository and open the main folder in your IDE
